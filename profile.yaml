@@ -1,0 +1,21 @@
+meta:
+  url: 'https://yourname.netlify.com'
+
+me:
+  name: "Your Name"
+  nickname: "Your Nickname" 
+  picture: "/pictures/picture.png"
+  bio: >
+    Write a few lines about yourself.
+
+  interests:
+    - "Web"
+    - "Art"
+    - "Culture"
+
+  posts:
+    - content: "Hello World!"
+      timestamp: 123456789
+
+  friends:
+    - winegum: "https://winegum.netlify.com"
