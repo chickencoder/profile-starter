@@ -1,0 +1,3 @@
+# Redirect Profile to HTML rendered YAML
+/profile        /profile.html
+/               /profile.html
